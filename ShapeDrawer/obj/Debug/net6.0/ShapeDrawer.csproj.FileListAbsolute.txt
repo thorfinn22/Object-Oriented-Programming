@@ -1,0 +1,15 @@
+/Users/hareemon/Projects/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer
+/Users/hareemon/Projects/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.deps.json
+/Users/hareemon/Projects/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.runtimeconfig.json
+/Users/hareemon/Projects/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.dll
+/Users/hareemon/Projects/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.pdb
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.csproj.AssemblyReference.cache
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.AssemblyInfo.cs
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.dll
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/refint/ShapeDrawer.dll
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.pdb
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.genruntimeconfig.cache
+/Users/hareemon/Projects/ShapeDrawer/obj/Debug/net6.0/ref/ShapeDrawer.dll
