@@ -1,0 +1,15 @@
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.dll
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfo.cs
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.dll
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/refint/SwinAdventure.dll
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.pdb
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.genruntimeconfig.cache
+/Users/hareemon/Projects/SwinAdventure/SwinAdventure/obj/Debug/net6.0/ref/SwinAdventure.dll
