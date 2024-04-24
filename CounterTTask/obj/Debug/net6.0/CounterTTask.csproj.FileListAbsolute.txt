@@ -1,0 +1,15 @@
+/Users/hareemon/Projects/CounterTTask/CounterTTask/bin/Debug/net6.0/CounterTTask
+/Users/hareemon/Projects/CounterTTask/CounterTTask/bin/Debug/net6.0/CounterTTask.deps.json
+/Users/hareemon/Projects/CounterTTask/CounterTTask/bin/Debug/net6.0/CounterTTask.runtimeconfig.json
+/Users/hareemon/Projects/CounterTTask/CounterTTask/bin/Debug/net6.0/CounterTTask.dll
+/Users/hareemon/Projects/CounterTTask/CounterTTask/bin/Debug/net6.0/CounterTTask.pdb
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.csproj.AssemblyReference.cache
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.AssemblyInfoInputs.cache
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.AssemblyInfo.cs
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.csproj.CoreCompileInputs.cache
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.dll
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/refint/CounterTTask.dll
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.pdb
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/CounterTTask.genruntimeconfig.cache
+/Users/hareemon/Projects/CounterTTask/CounterTTask/obj/Debug/net6.0/ref/CounterTTask.dll
