@@ -1,0 +1,15 @@
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/bin/Debug/net6.0/Test_oop
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/bin/Debug/net6.0/Test_oop.deps.json
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/bin/Debug/net6.0/Test_oop.runtimeconfig.json
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/bin/Debug/net6.0/Test_oop.dll
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/bin/Debug/net6.0/Test_oop.pdb
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.csproj.AssemblyReference.cache
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.AssemblyInfoInputs.cache
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.AssemblyInfo.cs
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.csproj.CoreCompileInputs.cache
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.dll
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/refint/Test_oop.dll
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.pdb
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/Test_oop.genruntimeconfig.cache
+/Users/hareemon/Projects/Test1 OOP/Test_oop/Test_oop/obj/Debug/net6.0/ref/Test_oop.dll
